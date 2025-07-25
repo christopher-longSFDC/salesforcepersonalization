@@ -2,7 +2,10 @@
 Helpful examples for Salesforce Personalization.
 
 - Sitemap snippets and examples
+    - Sitemap Example (Simple sitemap example with basic personalization initialization)
 - Schema examples
+    - Website Engagement Schema (Website Engagement Schema example for the Progressive Data Mapping)
+    - Product Engagment Schema (Product Engagment Schema example for the Progressive Data Mapping)
 
 *These examples are provided for educational purposes. Use at your own risk.*
 
