@@ -1,0 +1,114 @@
+{
+  "records": [
+    {
+      "masterLabel": "Product Engagement",
+      "developerName": "productEngagement",
+      "category": "Engagement",
+      "externalDataTranFields": [
+        {
+          "masterLabel": "category",
+          "developerName": "category",
+          "dataType": "Text",
+          "isDataRequired": true
+        },
+        {
+          "masterLabel": "Engagement Date Time",
+          "developerName": "dateTime",
+          "dataType": "DateTime",
+          "isDataRequired": true
+        },
+        {
+          "masterLabel": "Individual",
+          "developerName": "deviceId",
+          "dataType": "Text",
+          "isDataRequired": true
+        },
+        {
+          "masterLabel": "eventId",
+          "developerName": "eventId",
+          "dataType": "Text",
+          "isDataRequired": true,
+          "primaryIndexOrder": 1
+        },
+        {
+          "masterLabel": "eventType",
+          "developerName": "eventType",
+          "dataType": "Text",
+          "isDataRequired": true
+        },
+        {
+          "masterLabel": "Engagement Channel Action",
+          "developerName": "interactionName",
+          "dataType": "Text",
+          "isDataRequired": true
+        },
+        {
+          "masterLabel": "Personalization Content",
+          "developerName": "personalizationContentId",
+          "dataType": "Text",
+          "isDataRequired": false
+        },
+        {
+          "masterLabel": "Personalization",
+          "developerName": "personalizationId",
+          "dataType": "Text",
+          "isDataRequired": false
+        },
+        {
+          "masterLabel": "Session",
+          "developerName": "sessionId",
+          "dataType": "Text",
+          "isDataRequired": true
+        },
+        {
+          "masterLabel": "Engagement Channel",
+          "developerName": "sourceChannel",
+          "dataType": "Text",
+          "isDataRequired": false
+        },
+        {
+          "masterLabel": "Device Locale",
+          "developerName": "sourceLocale",
+          "dataType": "Text",
+          "isDataRequired": false
+        },
+        {
+          "masterLabel": "Webpage Type",
+          "developerName": "sourcePageType",
+          "dataType": "Text",
+          "isDataRequired": false
+        },
+        {
+          "masterLabel": "Page URL",
+          "developerName": "sourceUrl",
+          "dataType": "Text",
+          "isDataRequired": false
+        },
+        {
+          "masterLabel": "Referrer URL",
+          "developerName": "sourceUrlReferrer",
+          "dataType": "Text",
+          "isDataRequired": false
+        },
+        {
+          "masterLabel": "Product",
+          "developerName": "catalogObjectId",
+          "dataType": "Text",
+          "isDataRequired": true
+        },
+        {
+          "masterLabel": "Catalog Object Type",
+          "developerName": "catalogObjectType",
+          "dataType": "Text",
+          "isDataRequired": false
+        },
+        {
+          "masterLabel": "Product Category",
+          "developerName": "catalogObjectCategory",
+          "dataType": "Text",
+          "isDataRequired": false
+        }
+      ]
+    }
+  ]
+}
