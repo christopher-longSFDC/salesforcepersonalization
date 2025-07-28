@@ -2,7 +2,7 @@
   "records": [
     {
       "masterLabel": "Website Engagement",
-      "developerName": "userEngagement",
+      "developerName": "websiteEngagement",
       "category": "Engagement",
       "externalDataTranFields": [
         {
