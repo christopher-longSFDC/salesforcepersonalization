@@ -2,7 +2,7 @@
   "records": [
     {
       "masterLabel": "Product Engagement",
-      "developerName": "productEngagement",
+      "developerName": "catalog",
       "category": "Engagement",
       "externalDataTranFields": [
         {
