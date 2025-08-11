@@ -10,6 +10,7 @@ Helpful examples for Salesforce Personalization.
 *These examples are provided for educational purposes. Use at your own risk.*
 
 ## Documentation Websites
+- <a href='https://mcp.hubs.vidyard.com/categories/salesforce-personalization-spotlight-series' target='_blank'>Deep Dive Video Series</a>
 - <a href='https://developer.salesforce.com/docs/marketing/einstein-personalization/guide/overview.html' target='_blank'>Salesforce Developer</a>
 - <a href='https://help.salesforce.com/s/articleView?id=mktg.mc_persnl.htm&type=5' target='_blank'>Salesforce Help</a>
 - <a href='https://help.salesforce.com/s/articleView?language=en_US&id=mktg.persnl_agentforce_explore_agentforce_in_personalization.htm&type=5' target='_blank'>Agentforce in Salesforce Personalization</a>
